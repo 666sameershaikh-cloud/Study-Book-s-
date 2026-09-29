@@ -1,0 +1,6 @@
+{
+  "name": "BOOKS STUDY",
+  "description": "BOOKS STUDY - Premium Social Connection and Private Messaging with Class 1-12 curriculum reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
